@@ -9,7 +9,7 @@ create table users (
     shortname varchar(20),
     bio varchar(255),
     phone varchar(15),
-    created_at date,
+    created_at date
 );
 
 create table grup(
